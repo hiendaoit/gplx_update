@@ -4,25 +4,25 @@
       "minimum_versions": {
         "android": {
           "versionName": "1.0.0",
-          "versionCode": 20,
+          "versionCode": 26,
           "force": false,
           "storeUrl": "https://play.google.com/store/apps/details?id=vn.com.daotaolaixehd.mophong"
         },
         "ios": {
-          "versionName": "1.0.0",
-          "buildNumber": 20,
+          "versionName": "1.0.2",
+          "buildNumber": 1,
           "force": false,
           "storeUrl": "https://apps.apple.com/vn/app/120-thgt/id6749032266?l=vi"
         }
       },
       "latest_versions": {
         "android": {
-          "versionName": "1.0.1",
-          "versionCode": 21
+          "versionName": "1.0.0",
+          "versionCode": 26
         },
         "ios": {
-          "versionName": "1.0.1",
-          "buildNumber": 21
+          "versionName": "1.0.2",
+          "buildNumber": 1
         }
       },
       "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
@@ -32,12 +32,12 @@
       "minimum_versions": {
         "android": {
           "versionName": "1.0.0",
-          "versionCode": 1,
+          "versionCode": 21,
           "force": false,
           "storeUrl": "https://play.google.com/store/apps/details?id=vn.com.daotaolaixehd.onthigplx"
         },
         "ios": {
-          "versionName": "1.0.0",
+          "versionName": "1.2.1",
           "buildNumber": 1,
           "force": false,
           "storeUrl": "https://apps.apple.com/vn/app/%C3%B4n-thi-l%C3%BD-thuy%E1%BA%BFt-l%C3%A1i-xe/id1531563293?l=vi"
@@ -46,10 +46,10 @@
       "latest_versions": {
         "android": {
           "versionName": "1.0.0",
-          "versionCode": 1
+          "versionCode": 21
         },
         "ios": {
-          "versionName": "1.0.0",
+          "versionName": "1.2.1",
           "buildNumber": 1
         }
       },
