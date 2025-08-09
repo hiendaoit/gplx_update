@@ -4,8 +4,8 @@
       "minimum_versions": {
         "android": {
           "versionName": "1.0.0",
-          "versionCode": 26,
-          "force": false,
+          "versionCode": 27,
+          "force": true,
           "storeUrl": "https://play.google.com/store/apps/details?id=vn.com.daotaolaixehd.mophong"
         },
         "ios": {
@@ -18,7 +18,7 @@
       "latest_versions": {
         "android": {
           "versionName": "1.0.0",
-          "versionCode": 26
+          "versionCode": 27
         },
         "ios": {
           "versionName": "1.0.2",
@@ -32,8 +32,8 @@
       "minimum_versions": {
         "android": {
           "versionName": "1.0.0",
-          "versionCode": 21,
-          "force": false,
+          "versionCode": 22,
+          "force": true,
           "storeUrl": "https://play.google.com/store/apps/details?id=vn.com.daotaolaixehd.onthigplx"
         },
         "ios": {
@@ -46,7 +46,7 @@
       "latest_versions": {
         "android": {
           "versionName": "1.0.0",
-          "versionCode": 21
+          "versionCode": 22
         },
         "ios": {
           "versionName": "1.2.1",
@@ -58,6 +58,7 @@
     }
   }
 }
+
 
 
 
