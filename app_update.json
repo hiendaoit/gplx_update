@@ -37,9 +37,9 @@
           "storeUrl": "https://play.google.com/store/apps/details?id=vn.com.daotaolaixehd.onthigplx"
         },
         "ios": {
-          "versionName": "1.2.1",
+          "versionName": "1.2.2",
           "buildNumber": 1,
-          "force": false,
+          "force": true,
           "storeUrl": "https://apps.apple.com/vn/app/%C3%B4n-thi-l%C3%BD-thuy%E1%BA%BFt-l%C3%A1i-xe/id1531563293?l=vi"
         }
       },
@@ -49,15 +49,16 @@
           "versionCode": 22
         },
         "ios": {
-          "versionName": "1.2.1",
+          "versionName": "1.2.2",
           "buildNumber": 1
         }
       },
       "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
-      "force_update": false
+      "force_update": true
     }
   }
 }
+
 
 
 
