@@ -37,7 +37,7 @@
           "storeUrl": "https://play.google.com/store/apps/details?id=vn.com.daotaolaixehd.onthigplx"
         },
         "ios": {
-          "versionName": "1.2.2",
+          "versionName": "1.2.3",
           "buildNumber": 1,
           "force": true,
           "storeUrl": "https://apps.apple.com/vn/app/%C3%B4n-thi-l%C3%BD-thuy%E1%BA%BFt-l%C3%A1i-xe/id1531563293?l=vi"
@@ -49,7 +49,7 @@
           "versionCode": 24
         },
         "ios": {
-          "versionName": "1.2.2",
+          "versionName": "1.2.3",
           "buildNumber": 1
         }
       },
@@ -58,6 +58,7 @@
     }
   }
 }
+
 
 
 
