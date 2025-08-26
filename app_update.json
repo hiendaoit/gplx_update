@@ -54,7 +54,7 @@
         }
       },
       "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
-      "force_update": truu
+      "force_update": true
     },
     "vn.com.daotaolaixehd.onthigplx": {
       "minimum_versions": {
@@ -86,6 +86,7 @@
     }
   }
 }
+
 
 
 
