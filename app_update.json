@@ -21,12 +21,12 @@
           "versionCode": 30
         },
         "ios": {
-          "versionName": "1.0.1",
+          "versionName": "1.0.2",
           "buildNumber": 1
         }
       },
       "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
-      "force_update": false
+      "force_update": true
     },
     "vn.com.daotaolaixehd.onthigplx": {
       "minimum_versions": {
@@ -54,10 +54,11 @@
         }
       },
       "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
-      "force_update": false
+      "force_update": true
     }
   }
 }
+
 
 
 
