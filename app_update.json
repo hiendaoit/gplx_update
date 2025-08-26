@@ -28,34 +28,6 @@
       "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
       "force_update": false
     },
-    "vn.com.daotaolaixehd.onthigplx360": {
-      "minimum_versions": {
-        "android": {
-          "versionName": "1.0.0",
-          "versionCode": 1,
-          "force": false,
-          "storeUrl": "https://play.google.com/store/apps/details?id=vn.com.daotaolaixehd.onthigplx360"
-        },
-        "ios": {
-          "versionName": "1.0.0",
-          "buildNumber": 1,
-          "force": false,
-          "storeUrl": "https://apps.apple.com/vn/app/%C3%B4n-thi-gplx-360/id6751234412?l=vi"
-        }
-      },
-      "latest_versions": {
-        "android": {
-          "versionName": "1.0.0",
-          "versionCode": 1
-        },
-        "ios": {
-          "versionName": "1.0.0",
-          "buildNumber": 1
-        }
-      },
-      "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
-      "force_update": false
-    },
     "vn.com.daotaolaixehd.onthigplx": {
       "minimum_versions": {
         "android": {
@@ -86,6 +58,7 @@
     }
   }
 }
+
 
 
 
