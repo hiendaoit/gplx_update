@@ -21,7 +21,7 @@
           "versionCode": 30
         },
         "ios": {
-          "versionName": "1.0.2",
+          "versionName": "1.0.4",
           "buildNumber": 1
         }
       },
@@ -86,6 +86,7 @@
     }
   }
 }
+
 
 
 
