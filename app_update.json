@@ -22,7 +22,7 @@
         },
         "ios": {
           "versionName": "1.0.4",
-          "buildNumber": 1
+          "buildNumber": 0
         }
       },
       "message": "Đã có phiên bản mới. Vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
@@ -86,6 +86,7 @@
     }
   }
 }
+
 
 
 
